@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "package_version": "20261022213254",
+  "package_version": "20261023133119",
   "source_bundle": "game_ui_autocard",
   "source_atlas": "Assets/Game/UI/autocard/s2Chip.spriteatlas",
   "sprite_ids": [
